@@ -14,7 +14,12 @@
         font-size: 30px;
 
     }
-}
-    
+    .quick-notes{
+        display: flex;
+    }
+    .quick-notes li{
+        display: grid;
+        direction: ;
+    }
 
- 
+}
