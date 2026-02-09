@@ -1,7 +1,10 @@
 /* Soluzione qui */
-@media screen (min-width: 768px;){
+@media (min-width: 768px) {
     #logo{
         text-align: left;
+    }
+    main{
+        padding: 20px;
     }
 }
     
